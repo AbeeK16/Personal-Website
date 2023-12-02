@@ -3,7 +3,7 @@
 
 #CHANGE BELOW
 profile_picture = "Images/pfp.jpg"
-#TODO: update about_me section
+#TODO: update about_me section, mailto:, and mail image update and reformat it
 about_me = "Hi! I'm Abhinaya (Abhi) Karthana. I am a first-year CS Student at Georgia Tech from Fairfax, VA."
 
 
