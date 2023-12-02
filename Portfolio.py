@@ -20,7 +20,7 @@ about_me_section()
 # Sidebar Links
 def links_section():
     st.sidebar.header("Links")
-    st.sidebar.text("Connect with my on LinkedIn")
+    st.sidebar.text("Connect with me on LinkedIn")
     linkedin_link = f'<a href="{info.my_linkedin_url}"><img src="{info.linkedin_image_url}" alt="LinkedIn" width = "75" height="75"></a>'
     st.sidebar.markdown(linkedin_link, unsafe_allow_html=True)
     st.sidebar.text("Checkout my work")

@@ -3,7 +3,8 @@
 
 #CHANGE BELOW
 profile_picture = "Images/pfp.jpg"
-about_me = "I'm Abhinaya (Abhi) Karthana. I am a Freshman at GT from Fairfax, VA. "
+#TODO: update about_me section
+about_me = "Hi! 'm Abhinaya (Abhi) Karthana. I am a first-year CS Student at Georgia Tech from Fairfax, VA."
 
 
 #CHANGE BELOW (OPTIONAL)
