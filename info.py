@@ -32,9 +32,9 @@ course_data = {
     }
 experience_data = {
     "Student Researcher at GT": (["- Spent a semester researching a problem space and prototyping a solution",
-                                                                          "- Worked with Richard Landry as mentor", "- Presented findings at demo day"],"images/demo.jpg"),
+                                                                          "- Worked with Richard Landry as mentor", "- Presented findings at demo day"],"Images/demo.jpg"),
     "Grand Challenges":(["- Developed a solution to a UN SDG",
-                                                           "- Built a business to market to stakeholders"],"images/gc_pinup.jpg"),
+                                                           "- Built a business to market to stakeholders"],"Images/gc_pinup.jpg"),
 }
 
 projects_data = {
@@ -70,7 +70,7 @@ spoken_data = {
     "Spanish": "Intermediate",
 }
 leadership_data = {
-    "FIRST Robotics Competition": (["- As programming captain, led a team of more than 20 students in projects and their individual learning journeys"],"images/robotics.jpeg"),
+    "FIRST Robotics Competition": (["- As programming captain, led a team of more than 20 students in projects and their individual learning journeys"],"Images/robotics.jpeg"),
 
 }
 activity_data={
