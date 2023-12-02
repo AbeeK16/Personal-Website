@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/pfp.jpg"
+profile_picture = "Images/pfp.jpg"
 about_me = "I'm Abhinaya (Abhi) Karthana. I am a Freshman at GT from Fairfax, VA. "
 
 
